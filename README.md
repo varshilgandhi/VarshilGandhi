@@ -6,7 +6,7 @@ Beyond my professional responsibilities, I enjoy exploring new technologies and 
 
 Talking about Personal Stuff:
 
-🛠 with Artificial Intelligence, Machine Learning, SQL, Python, Web Scraping, Data Analytics, Data Visualization;
+🛠 with Artificial Intelligence, Machine Learning, SQL, Python, Web Scraping, Data Analytics, Data Visualization\n;
 👨🏻‍💻 I'm actively looking for opportunities to collaborate on innovative products;
 💬 I love to teach and share knowledge; Feel free to reach out;
 📫 How to reach me: varshilgandhi308@gmail.com;
