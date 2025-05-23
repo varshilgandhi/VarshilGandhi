@@ -6,7 +6,7 @@ Led an AI/ML team on an end-to-end Edge AI project—from data collection throug
 🔭 I’m focused on:
 - Building full ML pipelines (computer vision, classical ML, neural networks)  
 - Optimizing & quantizing models for edge inference (i.MX93/95)  
-- Deploying and monitoring models on AWS  
+- Deploying and monitoring models on Edge Device 
 
 ---
 
