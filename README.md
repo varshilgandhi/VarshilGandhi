@@ -1,50 +1,42 @@
-## Hey👋, I'm Varshil Gandhi!
-[LinkedIn](www.linkedin.com/in/varshil-gandhi-08470b200)
+# Hi there, I’m Varshil Gandhi 👋
 
+**Machine Learning Engineer @ Glide Technology**  
+Led an AI/ML team on an end-to-end Edge AI project—everything from data collection through model deployment on edge devices, with parallel exploration of AWS Cloud deployments. Currently pursuing a Data Science & Machine Learning master’s at Scaler Academy.
 
-Hi, I'm Varshil Gandhi, an Associate Software Engineer 🚀 at [@GlideTechnologies](https://glidemtech.com/). I'm passionate about Artificial Intelligence, Machine Learning, and all things data. Currently, I'm also pursuing a Data Science and Machine Learning course to deepen my expertise in these fields. I thrive on working with large datasets and enjoy turning complex data into actionable insights. Documenting my code meticulously is my way of ensuring clarity and maintainability!
-Beyond my professional responsibilities, I enjoy exploring new technologies and staying up-to-date with industry trends. I also have a passion for teaching and sharing knowledge, which has been a rewarding experience for me. Outside of tech, I'm interested in topics like EV Charging Projects, Writing, Music, and Data Visualization.
+🔭 I’m focused on:
+- Building full ML pipelines (CV, classical ML, neural nets)  
+- Optimizing and quantizing models for edge inference (i.MX93/95)  
+- Deploying and monitoring models on AWS  
 
-Talking about Personal Stuff:
+---
 
-🛠 with Artificial Intelligence, Machine Learning, SQL, Python, Web Scraping, Data Analytics, Data Visualization;
+### 🚀 Tech Stack
 
-👨🏻‍💻 I'm actively looking for opportunities to collaborate on innovative products;
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)  
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)  
+[![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)](https://keras.io/)  
+[![TFLite](https://img.shields.io/badge/TFLite-0099E5?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/lite)  
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/)  
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)  
+[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)](https://aws.amazon.com/)  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)  
+[![GitHub Actions](https://img.shields.io/badge/GHActions-2088FF?logo=githubactions&logoColor=white)](https://github.com/features/actions)  
 
-💬 I love to teach and share knowledge; Feel free to reach out;
+---
 
-📫 How to reach me: varshilgandhi308@gmail.com;
+### 📂 Top Projects
 
-⚡️ Simple Mantra: Your insights can lead to innovation.
+- **Data Science Portfolio**  
+  A curated collection of CV, ML and neural-network projects—see live demos and code  
+  🔗 https://www.datascienceportfol.io/varshilgandhi308  
 
-**Languages and Tools:**
+*(We’ll pick 6–8 of your individual repos to “pin” next.)*
 
-PYTHON
+---
 
-SQL 
+### 📫 Let’s Connect
 
-TABLEAU
-
-DATA VISUALIZATION
-
-
-
-
-
-
-
-
-<!--
-**varshilgandhi/VarshilGandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔗 Portfolio: [datascienceportfol.io/varshilgandhi308](https://www.datascienceportfol.io/varshilgandhi308)  
+- 🔗 LinkedIn: [varshil-gandhi](https://www.linkedin.com/in/varshil-gandhi-08470b200)  
+- ✉️ Email: varshilgandhi308@gmail.com  
+- 🔗 GitHub: [varshilgandhi](https://github.com/varshilgandhi)
