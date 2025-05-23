@@ -39,7 +39,6 @@ Check out my full portfolio for live demos and detailed walkthroughs:
 | [Business-Case-OLA-Driver-Attrition-Prediction](https://github.com/varshilgandhi/Business-Case-OLA-Driver-Attrition-Prediction) | Ensemble-learning model to predict and reduce driver churn at OLA by identifying at-risk drivers. |
 | [Sentiment_Analysis](https://github.com/varshilgandhi/Sentiment_Analysis) | Custom NLP pipeline for classifying synthetic customer feedback into Positive/Neutral/Negative via a self-built ML model and REST API. |
 
-*(Add more repos here to reach 6–8 total pinned projects.)*
 
 ---
 
