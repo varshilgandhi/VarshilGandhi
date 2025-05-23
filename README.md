@@ -21,7 +21,7 @@ Led an AI/ML team on an end-to-end Edge AI project—from data collection throug
 [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)](https://aws.amazon.com/)  
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)  
 [![GitHub Actions](https://img.shields.io/badge/GHActions-2088FF?logo=githubactions&logoColor=white)](https://github.com/features/actions)  
-[![Tableau](https://img.shields.io/badge/GHActions-2088FF?logo=githubactions&logoColor=white)](https://public.tableau.com/app/discover)
+[![Tableau](https://img.shields.io/badge/GHActions-2088FF?logo=tableau&logoColor=green)](https://public.tableau.com/app/discover)
 ---
 
 ### 🔍 Top Projects
